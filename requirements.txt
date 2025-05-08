@@ -1,2 +1,7 @@
 streamlit
-requests
+pandas
+seaborn
+matplotlib
+joblib
+scikit-learn
+imbalanced-learn
